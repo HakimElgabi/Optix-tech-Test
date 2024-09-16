@@ -1,8 +1,10 @@
-|========================================================================|
 ## Optix Technical Test
-Use `docker-compose up` to run both the client app, and the api server
-Visit `localhost:5173` to see the app in action
-|========================================================================|
+
+Use `docker-compose up` to run both the client appand the api server 
+
+Visit `localhost:5001` to see the app in action
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 Our developer was part way through developing the following feature but left the company and you are tasked with picking up where they left off.
 

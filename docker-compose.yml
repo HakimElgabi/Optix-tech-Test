@@ -1,0 +1,10 @@
+services:
+  optix-api:
+    build: backEnd
+    ports:
+      - '5000:5000'
+
+  optix-app:
+    build: FrontEnd
+    ports:
+      - '5001:5001'

@@ -1,8 +1,8 @@
 ## Optix Technical Test
 
-Use `docker-compose up` to run both the client appand the api server 
+Use `docker-compose up` to run both the frontend app and the backend server 
 
-Visit `localhost:5001` to see the app in action
+Visit `localhost:5001` to see the frontend app
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
